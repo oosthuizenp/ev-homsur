@@ -1,0 +1,33 @@
+baseurl: ""
+
+title      : HomeSure Bonds - Experts in Home Finance, Bonds and Loans
+email      : luyanda.gola@evogroup.co.za
+description: Contact Luyanda Gola at HomeSure Bonds, your trusted partner for home loans and bond origination in South Africa. As experienced property finance professionals, we specialize in securing competitive home loans tailored to your needs. Partnered with evo Home Loans, we leverage direct agreements with South Africa’s major banks to negotiate the best rates and terms. At HomeSure Bonds, we’re passionate about simplifying your path to home ownership with expert guidance, integrity, and a commitment to building lasting client relationships.
+author     : Pieter Oosthuizen
+
+analytics:
+  google: G-xxx
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+webserver_headers:
+  - - Access-Control-Allow-Origin
+    - "*"
+  - - Access-Control-Allow-Methods
+    - GET, OPTIONS, HEAD
+
+logo:
+  path: /assets/homesure bonds logo.png
+
+exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Homeloans
+
+company: Homesure Bonds
+
+url: https://evohomeloans.co.za/bond-originators/centurion/
+
+address: 369 Panorama Road, The Reeds, Centurion
