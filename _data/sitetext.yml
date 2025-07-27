@@ -80,21 +80,19 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why HomeSure Bonds"
-    text: "Simplifying home loans with expert guidance and competitive rates."
-    footer: "Our bond origination services are completely free, with no obligation."
-    section: textblock
-    list:
-      - title: "One application, multiple bank quotes."
-        image: "fa-university"
-      - title: "We submit to all major banks to secure the best offers."
-        image: "fa-file-invoice-dollar"
-      - title: "Compare tailored quotes from each bank."
-        image: "fa-balance-scale"
-      - title: "We negotiate the best rates and terms on your behalf."
-        image: "fa-comments-dollar"
-      - title: "Personalized support from application to bond registration."
-        image: "fa-user-shield"
+  title: "Why HomeSure Bonds"
+  text: "Let HomeSure Bonds walk the journey with you—because your home loan should work for you, not the other way around."
+  footer: "Our bond origination services are completely free, with no obligation."
+  section: textblock
+  list:
+    - title: "We apply to multiple banks on your behalf to get you the best deal."
+      image: "fas fa-circle"
+    - title: "You’ll have a dedicated consultant guiding you every step of the way."
+      image: "fas fa-circle"
+    - title: "Our services are completely free—we get paid by the banks."
+      image: "fas fa-circle"
+    - title: "We offer quick turnaround times, expert advice, and a personalized approach."
+      image: "fas fa-circle"
 
 textblock-lite:
     title: "Get home loan quotes from all the <br> banks with one application."
@@ -112,8 +110,28 @@ portfolio:
     closebutton: "Close"
     
 about:
-    title: "About Us"
-    text2: "HomeSure Bonds, founded by Luyanda Gola, is dedicated to making homeownership accessible and stress-free. With extensive experience in banking, real estate, and compliance, we provide expert bond origination services backed by our partnership with evo Home Loans. <br><br> Our mission is to empower clients with competitive financing solutions, delivered with integrity and excellence. <br><br> We are committed to guiding you through every step of the bond process, ensuring a seamless experience. <br><br> Let us help you secure your dream home!"
+  title: "About Us"
+  text2: "HomeSure Bonds (Pty) Ltd is a proudly South African bond origination company based in Centurion, Gauteng. We exist to simplify and streamline the home loan process—making it faster, easier, and more transparent for buyers at every stage of the property journey. Whether you're a first-time buyer, a property investor, or refinancing an existing home loan, we work on your behalf to source competitive offers from leading banks and lenders—all at no cost to you. <br><br> 
+
+    <strong>Our Founder</strong> <br>
+    HomeSure Bonds was founded by Luyanda Gola, a seasoned banker, property practitioner, and real estate developer with over a decade of experience in South Africa's financial and property sectors. Luyanda's career spans roles in commercial and retail banking, specializing in credit, risk, and client portfolio management. <br><br>
+
+    In addition to holding a Bachelor of Technology in Management and a National Diploma in Management from Nelson Mandela Metropolitan University, Luyanda has completed industry-recognized qualifications in Banking, Risk Management, and Compliance. He is a registered real estate agent with the Property Practitioners Regulatory Authority (PPRA) and is actively involved in property development projects across Gauteng. <br><br>
+
+    Through his deep understanding of banking systems and client needs, Luyanda launched HomeSure Bonds to close the gap between homebuyers and financial institutions—with a focus on service, speed, and trust. <br><br>
+
+    <strong>Our Mission</strong> <br>
+    To provide accessible, transparent, and personalized home loan solutions that empower individuals and families to achieve home ownership with confidence and ease. <br><br>
+
+    <strong>Our Vision</strong> <br>
+    To become South Africa's most trusted and innovative bond origination partner—known for service excellence, deep financial insight, and a commitment to inclusive property ownership. <br><br>
+
+    <strong>Our Values</strong> <br>
+    • <strong>Integrity</strong> - We act with honesty, accountability, and professionalism in everything we do. <br>
+    • <strong>Client-Centricity</strong> - We place our clients at the heart of every decision, ensuring solutions that truly meet their needs. <br>
+    • <strong>Excellence</strong> - We pursue quality in service, communication, and outcomes—every time. <br>
+    • <strong>Innovation</strong> - We embrace smart tools and strategies to improve efficiency and simplify the bond application process. <br>
+    • <strong>Empowerment</strong> - We educate and support our clients, giving them confidence to make informed financial choices."
     
 clients:
     title: "Bank Partners"

@@ -2,6 +2,9 @@ nav:
   - title: "Why Us"
     section: textblock-lite
 
+  - title: "What We Do"
+    section: textblock
+
   - title: "Services"
     section: services
 
@@ -10,6 +13,9 @@ nav:
 
   - title: "Calculators"
     section: calculators
+
+  - title: "About"
+    section: about
 
   - title: "Contact"
     url: /contact
